@@ -1,0 +1,30 @@
+1. have website where it says, enter your league id, and the verifier
+2. can py be backend to js frontend
+
+
+
+
+open site
+
+1. user sayss my league id is X    COMPLEETE
+2. enter league id, yahoo sends a verification to the user, have a box where user can verify
+3. VERIFY BY PUTTING SHIT IN THE TERMINAL complete
+3. Display teams in the league
+4. User selects their team compelte
+5. show their predicted rank after backend calculations
+
+
+man_id = man_id
+lenleague = lenleague
+wins_by_sos = []
+for i in range(0, lenleague)  # for
+    for j in range(0, lenleague)
+    
+    ... picture pseudocode
+
+6. show screen, your predicted win total is XXXX based on above function
+
+
+issues:
+1. you need to restart backend to do multiple teams
+2. defualt value doesnt work, always needa be typed
